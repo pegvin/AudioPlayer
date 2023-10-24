@@ -13,3 +13,4 @@ a audio player
 - https://xiph.org/flac/
 - https://rodic.fr/blog/libavcodec-tutorial-decode-audio-file/
 - https://ccmixter.org/
+- https://youtube.com/playlist?list=PLfXPDExDzpW91AXBHUQSjPYbqzKJgpxaw
