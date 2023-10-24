@@ -1,0 +1,6 @@
+[submodule "third_party/nanogui"]
+	path = third_party/nanogui
+	url = https://github.com/mitsuba-renderer/nanogui
+[submodule "third_party/imbase"]
+	path = third_party/imbase
+	url = https://github.com/csprite/imbase
