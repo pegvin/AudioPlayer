@@ -11,3 +11,4 @@ a audio player
 - https://github.com/mackron/miniaudio
 - https://github.com/mackron/dr_libs
 - https://xiph.org/flac/
+- https://rodic.fr/blog/libavcodec-tutorial-decode-audio-file/
